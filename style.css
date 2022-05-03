@@ -51,3 +51,7 @@ nav {
     height: auto;
   }
 }
+
+ul {
+  list-style: square inside url("flower-point.png");
+}
